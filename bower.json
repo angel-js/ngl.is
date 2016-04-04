@@ -1,0 +1,7 @@
+{
+  "name": "ngl.is",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.*"
+  }
+}
